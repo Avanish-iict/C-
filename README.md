@@ -1,1 +1,3 @@
-# Co-
+# MyRecipies
+
+Dalgona Coffee Recipe
